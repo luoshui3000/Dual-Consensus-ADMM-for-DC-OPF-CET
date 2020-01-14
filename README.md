@@ -7,13 +7,14 @@ What about this project/study?（项目介绍）
     the direct current dynamic optimal power flow with carbon emission trading (DC-DOPF-CET) problem.
     In this study, we focus on the impact of parameter rou and miu, the number of elements in the 
     consensus variable, the number of subsystems and the scale of power systems on the convergence 
-    performance. In order to verify the performance of our proposed algorithms and the effective of improved,
-    we apply them on a various of numerical case studies, and compare their key features and simulation results
-    with the method in [6] and [7]. The numerical case studies include a 6-bus system, a 30-bus system, a RTS48-bus
-    system in [6], a 118-bus system in [7] and a 1062-bus system. The results show that the convergence performance
-    largely depends on the number of elements in the consensus variable rather than the number of subsystems or
-    the scale of power systems. An excellent subsystem partition strategy cound enhance the convergence performance
-    , since it has less global variables.
+    performance. In order to verify the performance of our proposed algorithms and the effective of
+    improved, we apply them on a various of numerical case studies, and compare their key features 
+    and simulation results with the method in [6] and [7]. The numerical case studies include a 6-bus
+    system, a 30-bus system, a RTS48-bus system in [6], a 118-bus system in [7] and a 1062-bus system.
+    The results show that the convergence performance largely depends on the number of elements in 
+    the consensus variable rather than the number of subsystems or the scale of power systems. An 
+    excellent subsystem partition strategy cound enhance the convergence performance, since it 
+    has less global variables.
 
     [6] A. Kargarian, J. Mohammadi, J. Guo, S. Chakrabarti, M. Barati, G. Hug, S. Kar and R. Baldick, 
         “Toward Distributed/Decentralized DC Optimal Power Flow Implementationin Future Electric Power Systems,”
