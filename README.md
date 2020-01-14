@@ -67,7 +67,7 @@ Prerequisite(运行该项目需要的库或软件等):
 
     Matlab R2014a
     Cplex 12.6.2
-
+    Every version of Cplex only support specific version of MATLAB. Otherwise, it may be cause some unknown problems. In my opinion, the code can run correctly with the latest Cplex version.
 
 
 
